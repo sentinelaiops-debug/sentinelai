@@ -1,0 +1,21 @@
+{
+
+  "name": "sentinel-engine",
+
+  "version": "1.0.0",
+
+  "description": "Netlify function for Sentinel AI engine",
+
+  "main": "index.js",
+
+  "type": "module",
+
+  "dependencies": {
+
+    "openai": "^4.0.0",
+
+    "node-fetch": "^3.3.2"
+
+  }
+
+}
