@@ -26,9 +26,9 @@ const PLAN_LIMITS = {
 
   free: 2,
 
-  pro: 1000,
+  pro: 100,
 
-  enterprise: 10000,
+  enterprise: 1000,
 
 };
 
