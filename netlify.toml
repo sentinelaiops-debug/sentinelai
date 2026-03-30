@@ -1,0 +1,1 @@
+[build]  publish = "public"  functions = "netlify/functions"[functions]  node_bundler = "esbuild"[build.environment]  OPENAI_API_KEY = "your_openai_api_key_here"  UPSTASH_REDIS_REST_URL = "your_upstash_redis_url_here"  UPSTASH_REDIS_REST_TOKEN = "your_upstash_redis_token_here"
